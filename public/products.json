@@ -1,0 +1,84 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Wireless Headphones",
+      "category": "Electronics",
+      "price": 2999,
+      "inStock": true,
+      "rating": 4.5
+    },
+    {
+      "id": 2,
+      "name": "Smartphone",
+      "category": "Electronics",
+      "price": 15999,
+      "inStock": true,
+      "rating": 4.7
+    },
+    {
+      "id": 3,
+      "name": "Gaming Mouse",
+      "category": "Computer Accessories",
+      "price": 1299,
+      "inStock": false,
+      "rating": 4.2
+    },
+    {
+      "id": 4,
+      "name": "Running Shoes",
+      "category": "Footwear",
+      "price": 2499,
+      "inStock": true,
+      "rating": 4.0
+    },
+    {
+      "id": 5,
+      "name": "Backpack",
+      "category": "Bags",
+      "price": 899,
+      "inStock": true,
+      "rating": 3.9
+    },
+    {
+      "id": 6,
+      "name": "Digital Watch",
+      "category": "Accessories",
+      "price": 1999,
+      "inStock": true,
+      "rating": 4.3
+    },
+    {
+      "id": 7,
+      "name": "Bluetooth Speaker",
+      "category": "Electronics",
+      "price": 3499,
+      "inStock": false,
+      "rating": 4.6
+    },
+    {
+      "id": 8,
+      "name": "Office Chair",
+      "category": "Furniture",
+      "price": 5499,
+      "inStock": true,
+      "rating": 4.1
+    },
+    {
+      "id": 9,
+      "name": "LED Monitor",
+      "category": "Computer Accessories",
+      "price": 10999,
+      "inStock": true,
+      "rating": 4.4
+    },
+    {
+      "id": 10,
+      "name": "Coffee Maker",
+      "category": "Home Appliances",
+      "price": 4599,
+      "inStock": true,
+      "rating": 4.0
+    }
+  ]
+}
